@@ -1,7 +1,7 @@
 {
   "name": "react-native-environment",
   "description": "Apps environment with evn.properties, env.plist",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "keywords": [
     "react-component",
     "react-native",
