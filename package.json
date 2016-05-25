@@ -9,7 +9,10 @@
     "ios",
     "windows"
   ],
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aa900031/react-native-environment.git"
+  },
   "nativePackage": true,
   "author": {
     "name": "zhong666",
