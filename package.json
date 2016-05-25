@@ -1,0 +1,19 @@
+{
+  "name": "react-native-environment",
+  "description": "Apps environment with evn.properties, env.plist",
+  "version": "1.0.0",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "ios",
+    "windows"
+  ],
+  "nativePackage": true,
+  "author": {
+    "name": "zhong666",
+    "email": "aa900031@gmail.com"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
