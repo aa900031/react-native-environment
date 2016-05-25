@@ -9,6 +9,7 @@
     "ios",
     "windows"
   ],
+  "private": true,
   "nativePackage": true,
   "author": {
     "name": "zhong666",
